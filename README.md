@@ -1,2 +1,3 @@
-# support_functions
-some functions used often and also some to support the Spotify category analysis
+# Master_portfolio
+
+Notebooks, functions , and other files related to the development of the Master's thesis.
