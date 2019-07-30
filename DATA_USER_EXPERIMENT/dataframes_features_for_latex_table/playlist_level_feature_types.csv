@@ -1,0 +1,6 @@
+Name Feature,Data Type
+participant_id,category
+playlist,object
+avg_flow_score,float64
+is_track_known,category
+is_participant_favorite,category
