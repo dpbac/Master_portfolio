@@ -1,0 +1,11 @@
+track_id,category_id,album_name,artist_name,playlist_name,track_name,track_uri,duration_ms,track_popularity,acousticness,danceability,energy,valence,tempo,instrumentalness,key,mode,liveness,loudness,speechiness
+4vmgP10TH0YYqJkzr8yLW0,pop,On My Mind,Liam Bailey,Retro Pop,On My Mind,spotify:track:4vmgP10TH0YYqJkzr8yLW0,213733,33,0.0103,0.632,0.586,0.509,109.593,2.07e-05,1,1,0.0624,-2.7960000000000003,0.0443
+14sOS5L36385FJ3OL8hew4,pop,Happy Now,"Kygo,Sandro Cavazza",Love For Pop,Happy Now,spotify:track:14sOS5L36385FJ3OL8hew4,211362,88,0.374,0.693,0.575,0.4920000000000001,117.999,0.0,9,1,0.252,-6.9979999999999976,0.0801
+2Fap2zMMINCLylSCSGQLEa,pop,Say You'll Be There,Campsite Dream,Love For Pop,Say You'll Be There,spotify:track:2Fap2zMMINCLylSCSGQLEa,169500,47,0.21,0.6829999999999999,0.598,0.468,109.999,0.000147,2,1,0.124,-7.835,0.0323
+1ymEwygMMg5JwVAnh3C7yY,pop,Thursday (feat. H.E.R.),"Jess Glynne,H.E.R.",Stay Tuned!,Thursday (feat. H.E.R.),spotify:track:1ymEwygMMg5JwVAnh3C7yY,216297,70,0.316,0.7709999999999999,0.575,0.419,111.93,0.0,2,1,0.0849,-4.128,0.0513
+60Q0ZSKKBea7otGijFgrQI,pop,Crazy Life,Home Free,All A Cappella,Wake Me Up,spotify:track:60Q0ZSKKBea7otGijFgrQI,193733,49,0.477,0.7120000000000001,0.5539999999999999,0.369,116.91,0.0,3,1,0.19,-6.6720000000000015,0.0337
+7tsHqxfepei1AdLjy93XIv,pop,Summer,Chloe Lilac,Left of Center,Summer,spotify:track:7tsHqxfepei1AdLjy93XIv,178457,61,0.282,0.639,0.531,0.318,112.926,1.45e-06,4,1,0.111,-5.5310000000000015,0.0277
+1eN1K7YPRButXU7Mq0V58N,pop,Obsessed,Maggie Lindemann,Girls Only,Obsessed,spotify:track:1eN1K7YPRButXU7Mq0V58N,184515,68,0.0182,0.8220000000000001,0.575,0.28600000000000003,110.028,4.45e-05,6,0,0.109,-4.587,0.0464
+6uaIMhUZXMuT2Zz0vxrFiR,pop,The Woods (Acoustic),Hollow Coves,Acoustic Hits,The Woods - Acoustic,spotify:track:6uaIMhUZXMuT2Zz0vxrFiR,239960,66,0.722,0.5710000000000001,0.5579999999999999,0.28300000000000003,104.991,0.000331,9,1,0.116,-8.552999999999999,0.0281
+56ev0yPeYbMzfrGCfS2KCr,pop,Self Sabotage - EP,GRAACE,Everyday Favorites,SOS,spotify:track:56ev0yPeYbMzfrGCfS2KCr,187547,55,0.416,0.573,0.511,0.287,100.135,1.7199999999999998e-05,3,1,0.166,-9.042,0.0581
+7Aw2zBxuyMrrPuxugAcZwr,pop,Hôtel Costes 15,Intergalactic Lovers,Retro Pop,Fade Away,spotify:track:7Aw2zBxuyMrrPuxugAcZwr,179480,44,0.132,0.777,0.476,0.335,108.071,0.0,1,1,0.322,-7.652,0.0561

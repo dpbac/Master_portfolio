@@ -1,0 +1,11 @@
+track_id,category_id,album_name,artist_name,playlist_name,track_name,track_uri,duration_ms,track_popularity,acousticness,danceability,energy,valence,tempo,instrumentalness,key,mode,liveness,loudness,speechiness
+3y4uSQwxHckyRcvafEilkN,pop,Fallen so Young,Declan J Donovan,Acoustic Hits,Fallen so Young,spotify:track:3y4uSQwxHckyRcvafEilkN,232164,67,0.852,0.552,0.35600000000000004,0.196,109.763,0.0,10,1,0.173,-7.608,0.027000000000000003
+0KURlSvVShmFDbw1oum9QS,pop,2002,"Anne-Marie,Jay Pryor",Massive Pop Remixes,2002 - Jay Pryor Remix,spotify:track:0KURlSvVShmFDbw1oum9QS,183078,53,0.131,0.759,0.868,0.7040000000000001,117.953,1.87e-05,4,1,0.226,-4.269,0.0486
+46vJQ8zGlk5ROgQAS7FggF,pop,Yellow Bird,Ben Stevenson,Acoustic Hits,Yellow Bird,spotify:track:46vJQ8zGlk5ROgQAS7FggF,222842,37,0.6829999999999999,0.485,0.353,0.0706,114.064,0.396,6,0,0.106,-11.212,0.0296
+7s7tnZE05RMouEnwcUhqQo,pop,Betty,Betty Who,Fresh Pop,Language,spotify:track:7s7tnZE05RMouEnwcUhqQo,190117,60,0.556,0.8170000000000001,0.731,0.736,113.982,0.000151,9,0,0.465,-4.436,0.0708
+0tV8pOpiNsKqUys0ilUcXz,pop,Cheers To The Fall,Andra Day,Soft Pop Hits,Rise Up,spotify:track:0tV8pOpiNsKqUys0ilUcXz,253342,76,0.805,0.398,0.316,0.174,118.582,0.0,1,1,0.295,-7.0310000000000015,0.0368
+3O37piDdI2kyDnhJrPmZs0,pop,Jaiye (Time of Our Lives),LADIPOE,Afropop,Jaiye (Time of Our Lives),spotify:track:3O37piDdI2kyDnhJrPmZs0,181212,45,0.5539999999999999,0.703,0.725,0.71,111.948,0.000344,3,0,0.15,-6.814,0.0535
+6pzsnbNRn8pm84lLvppo4l,pop,Wow.,Macy Ellen,Hot Acoustics,Wow.,spotify:track:6pzsnbNRn8pm84lLvppo4l,192334,32,0.607,0.664,0.205,0.16,120.035,0.0,6,0,0.0968,-10.901,0.0575
+7daI4h2h7PZ5Rl858G1YMf,pop,Limbo,Supermoon,Troubadour,Limbo,spotify:track:7daI4h2h7PZ5Rl858G1YMf,172137,15,0.131,0.825,0.703,0.8690000000000001,115.029,8.17e-06,5,1,0.242,-7.385,0.0441
+7FI63EqRLE5SFcfViWIASS,pop,D.I.L.Y.D.,KAWALA,Pop Acoustic,Mighty River,spotify:track:7FI63EqRLE5SFcfViWIASS,162857,43,0.875,0.912,0.311,0.34,112.009,0.0,11,1,0.105,-8.705,0.185
+4rmPQGwcLQjCoFq5NrTA0D,pop,Uptown Funk,"Mark Ronson,Bruno Mars",Retro Pop,Uptown Funk,spotify:track:4rmPQGwcLQjCoFq5NrTA0D,270627,35,0.00966,0.853,0.6809999999999999,0.93,115.004,5.710000000000001e-05,0,1,0.0233,-5.003,0.0888
