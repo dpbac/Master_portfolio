@@ -1,6 +1,12 @@
 # Master Portfolio
 
-Notebooks, functions , and other files related to the development of the Master's thesis.
+Notebooks, functions, and other files related to the development of the Master's thesis.
+
+The Python notebooks, R code and R project in this repository where used in the project in the order they are described below.
+
+Each notebook starts with some short explanation and usually contains comments for clarity.
+
+All data used in this project is in the folder __data__:
 
 ## About folder "notebooks_spotify_data_retrieval_and_processing"
 
@@ -31,6 +37,17 @@ Notebooks of this folder are used in the following order:
 ## About folder "notebooks_user_experiment"
 
 Notebooks of this folder are used in the following order:
+
+- 01-participant_level_data_generation.ipynb
+- 02-playlist_level_data_generation.ipynb
+- 03-transitions_level_data_generation.ipynb
+- 04-flow_level_data_generation.ipynb
+- 05-EDA_user_experiment_data.ipynb
+
+## About folder ""
+
+It is a complete R project with Linear-Mixed Model analysis on the user experiment data.
+
 
 
 
