@@ -6,7 +6,9 @@ The Python notebooks, R code and R project in this repository where used in the 
 
 Each notebook starts with some short explanation and usually contains comments for clarity.
 
-All data used in this project is in the folder __data__:
+All data used in this project is in the folder __data__.
+
+__ATTENTION__: Some of the data is too big so it will be available at https://drive.google.com/drive/folders/1u0jBaOBPNDC0Ekz6LOMD34Ai8gut-znb?usp=sharing
 
 ## About folder "notebooks_spotify_data_retrieval_and_processing"
 
