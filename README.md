@@ -44,7 +44,7 @@ Notebooks of this folder are used in the following order:
 - 04-flow_level_data_generation.ipynb
 - 05-EDA_user_experiment_data.ipynb
 
-## About folder ""
+## About folder "LMEM_analysis_R"
 
 It is a complete R project with Linear-Mixed Model analysis on the user experiment data.
 
