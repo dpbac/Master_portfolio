@@ -1,0 +1,6 @@
+"term","estimate","std.error","statistic","group"
+"(Intercept)",0.0912644566443188,0.0647025111054674,1.41052418345178,"fixed"
+"var_moodhigh",-0.347396425565322,0.0765212754084769,-4.53986716388209,"fixed"
+"var_tempohigh",0.0736030556323651,0.0765212754084769,0.961863942275739,"fixed"
+"sd_(Intercept).participant_id",0.209888482747172,NA,NA,"participant_id"
+"sd_Observation.Residual",0.960334384705164,NA,NA,"Residual"
